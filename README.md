@@ -17,19 +17,6 @@ A **complete data analytics pipeline** analyzing **100K+ orders** from Olist, Br
 2. **Model & Engineer**: Build optimized relational schema with referential integrity
 3. **Analyze & Segment**: Apply RFM methodology for customer behavioral insights
 4. **Visualize & Recommend**: Create executive dashboard with actionable strategies
----
-##  Dataset
-
-Due to GitHub file size limitations (100MB), the datasets are hosted externally.
-
-**Raw Data:**
-- [Raw Dataset](https://drive.google.com/drive/folders/1asqZxW2y5RVlRawIjetOeIG6jggJEscE?usp=drive_link)
-
-**Processed Data:**
-- [Cleaned Datasets Folder](https://drive.google.com/drive/folders/10XpyZ5UiJMTQiDy8ltcidbWkvsffWqBb?usp=drive_link)
-
-**Final Output:**
-- [Flat Table (Excel)](https://docs.google.com/spreadsheets/d/1QSfJTSOZMREo-FSwE-Kd-bLLKzeEfhfV/edit?usp=drive_link&ouid=105889112216327334341&rtpof=true&sd=true)
 
 ---
 
@@ -112,8 +99,7 @@ Due to GitHub file size limitations (100MB), the datasets are hosted externally.
 
 ## Dashboard Preview
 
-![Executive Summary](01_executive_summary.png)
-![Business Insights](02_business_insights.png)
+![Executive Summary](05_powerbi/01_executive_summary.png)
 
 **Power BI Dashboard:**
 - [Download .pbix File](https://drive.google.com/file/d/1FdCfOGbtMijKeajBIyd7dpqJaq_wSmzi/view?usp=drive_link)
@@ -236,8 +222,9 @@ Data Analyst | Python • SQL • Power BI
 
 - [LinkedIn](https://www.linkedin.com/in/ali-r-ba4086342/)
 - [GitHub Portfolio](https://github.com/ali-0128)
-- Email: [alirabie0128@gmail.com]
+- alirabie0128@gmail.com
 
 ---
+
 
 *Last Updated: December 2025*
